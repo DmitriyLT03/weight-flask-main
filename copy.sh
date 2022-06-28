@@ -1,0 +1,1 @@
+scp -r WeightPredict root@188.120.255.244:/environments/WeightPredict
